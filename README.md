@@ -6,5 +6,5 @@
 #3.werkzeug.units 
 #pip install flask 
 #pip install psutil 
-#pip install werkzeug.units 
+
 #安装好后直接运行monitor.py即可
