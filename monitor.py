@@ -53,7 +53,7 @@ app.config['UPLOAD_FOLDER'] = 'static/uploads'  # 文件上传目录
 app.config['MAX_CONTENT_LENGTH'] = 16 * 1024 * 1024 * 1024  # 最大16GB
 
 # 密码设置
-PASSWORD = "Beacon@123"
+PASSWORD = ""
 
 # 确保上传目录存在
 if not os.path.exists(app.config['UPLOAD_FOLDER']):
